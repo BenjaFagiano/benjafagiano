@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Sobre Mi
+
+
+
+
+## Certificados
+
+
+
+
+## Skills
+
+
+
+## Bugs
+
+
+
+## Test Cases

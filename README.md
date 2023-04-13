@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744E1&center=true&vCenter=true&width=435&lines=Benjam%C3%ADn+Fagiano;QA+Manual+Tester" 
+       alt="Example Usage - README Typing SVG">
+</p>
 
 <!--
 **BenjaFagiano/BenjaFagiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +18,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Portfolio
+<div id="header" align="center">
+     <h1 align="center">Portfolio</h1>
+</div>
+
+
+<div id="badges" align="center">
+ 
+ <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="_blank">
+          <img src="https://img.shields.io/youtube/channel/subscribers/UCztNdsov4I7D67AxJHyVBZg?color=Red&label=BenjaFagiano&logo=YouTube&logoColor=Red&style=for-the-badge"
+               alt="YouTube Badge" />
+ </a>
+ <a href="https://www.linkedin.com/in/benjamínfagiano/">
+          <img src="https://img.shields.io/badge/Linkedin-Perfil-blue"
+               alt="Linkedin Badge" />
+ </a>
+ <a href="https://twitter.com/bfagiano15">
+          <img src="https://img.shields.io/twitter/follow/bfagiano15?color=blue&logo=twitter&style=for-the-badge"
+               alt="Twitter Badge" />
+ </a>
+</div>
+
+---
+
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)

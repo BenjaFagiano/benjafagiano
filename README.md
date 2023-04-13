@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744E1&center=true&vCenter=true&width=435&lines=Benjam%C3%ADn+Fagiano;QA+Manual+Tester" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744E1&center=true&vCenter=true&width=435&lines=Benjam%C3%ADn+Fagiano;QA+Manual+Tester;Estudiando Programación" 
        alt="Example Usage - README Typing SVG">
 </p>
 
@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-     <h1 align="center">Portfolio</h1>
-</div>
-
-
+---
 <div id="badges" align="center">
  
  <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="_blank">
@@ -41,17 +37,11 @@ Here are some ideas to get you started:
 
 ---
 
-- [About me](#about-me)
-- [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+### 📊 Estadisticas??
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benjafagiano&theme=cobalt&locale=es&mode=weekly)](https://git.io/streak-stats)
+
+
 
 ## About me
 
@@ -164,3 +154,5 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+
+

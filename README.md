@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
  
  <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="_blank">
-          <img src="https://img.shields.io/youtube/channel/subscribers/UCztNdsov4I7D67AxJHyVBZg?color=Red&label=BenjaFagiano&logo=YouTube&logoColor=Red&style=for-the-badge"
+          <img src="https://img.shields.io/youtube/channel/subscribers/UCztNdsov4I7D67AxJHyVBZg?color=Red&label=BenjaFagiano&logo=YouTube&logoColor=red&style=for-the-badge"
                alt="YouTube Badge" />
  </a>
  <a href="https://www.linkedin.com/in/benjamínfagiano/">

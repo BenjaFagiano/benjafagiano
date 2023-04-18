@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 
 
-## About me
-
+## Sobre mí 😄
+<!--
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
 I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
@@ -52,10 +52,36 @@ I got my Master's Degree from the University of Eastern Finland and have been a 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+-->
+## 📫 CV 
+Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google.com/file/d/1gbyVmFzg6vW1ncPR4DheCZvCDT8Hknt_/view?usp=sharing).
 
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1gbyVmFzg6vW1ncPR4DheCZvCDT8Hknt_/view?usp=sharing).
+# ⚡ Herramientas
+
+* Jira
+* Trello
+* Excel
+
+# 🔭 Tech skills 
+
+* Software Testing
+* SQL (básico)
+* JAVA (básico)
+* Encontrando Bugs
+* Reportando Bugs
+* Creando Casos de Prueba
+* Testing exploratorio
+
+# 🐞 Mi reporte de Bugs 
+
+Testeando App Movil [Directv Go/]:
+- [Reporte Bug](https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing)
 <!--
+
+Testing the webpage [a-manada.pl/](https://a-manada.pl/):
+- [Bug report](https://docs.google.com/document/d/1iUf3ZrhWnuVQy1kdCzWf3JErzcS2NPnoEcZUor2WUXQ/edit?usp=sharing)
+Testing the webpage [a-manada.pl/](https://a-manada.pl/):
+- [Bug report](https://docs.google.com/document/d/1iUf3ZrhWnuVQy1kdCzWf3JErzcS2NPnoEcZUor2WUXQ/edit?usp=sharing)
 ## Skills
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
@@ -154,5 +180,8 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+
+
+
 
 -->

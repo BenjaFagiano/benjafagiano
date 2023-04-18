@@ -74,7 +74,7 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 
 # 🐞 Mi reporte de Bugs 
 
-Testeando App Movil [Directv Go/]:
+Testeando App Movil [Directv Go](www.directvgo.com/):
 - [Reporte Bug](https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing)
 <!--
 

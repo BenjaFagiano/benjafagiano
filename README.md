@@ -173,15 +173,18 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
   * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 
-### Bug reports and work in Jira
-
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://bfagiano.atlassian.net/browse/POR-3?atlOrigin=eyJpIjoiNTkzZTNkNjRmNjA4NGY0OTg4ZWVlMjMzNjQxNmE5NzUiLCJwIjoiaiJ9).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
+* Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
-
-
-
 -->
+
+### Reporte de Bugs en Jira
+
+- Bug #1. Proyecto [Directv GO](https://bfagiano.atlassian.net/browse/POR-3?atlOrigin=eyJpIjoiNTkzZTNkNjRmNjA4NGY0OTg4ZWVlMjMzNjQxNmE5NzUiLCJwIjoiaiJ9).
+  
+
+
+
+
+

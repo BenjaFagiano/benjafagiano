@@ -61,8 +61,8 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 * Jira
 * Trello
 * Excel
-* Visual Studio Code
 * Slack
+* Visual Studio Code
 
 # 🔭 Tech skills 
 

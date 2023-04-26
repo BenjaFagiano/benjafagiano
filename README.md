@@ -61,12 +61,16 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 * Jira
 * Trello
 * Excel
+* Visual Studio Code
+* Slack
 
 # 🔭 Tech skills 
 
 * Software Testing
 * SQL (básico)
 * JAVA (básico)
+* CSS (básico)
+* HTML (básico)
 * Encontrando Bugs
 * Reportando Bugs
 * Creando Casos de Prueba

@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 ---
 <div id="badges" align="center">
  
- <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="_blank">
+ <a target="_blank" href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg">
           <img src="https://img.shields.io/youtube/channel/subscribers/UCztNdsov4I7D67AxJHyVBZg?color=red&label=BenjaFagiano&logo=YouTube&logoColor=red&style=for-the-badge"
                alt="YouTube Badge" />
  </a>
- <a href="https://www.linkedin.com/in/benjamínfagiano/">
+ <a target="_blank" href="https://www.linkedin.com/in/benjamínfagiano/">
           <img src="https://img.shields.io/badge/Linkedin-Perfil-blue"
                alt="Linkedin Badge" />
  </a>
- <a href="https://twitter.com/bfagiano15">
+ <a target="_blank" href="https://twitter.com/bfagiano15">
           <img src="https://img.shields.io/twitter/follow/bfagiano15?color=blue&logo=twitter&style=for-the-badge"
                alt="Twitter Badge" />
  </a>

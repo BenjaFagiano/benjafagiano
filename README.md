@@ -63,11 +63,14 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 * Excel
 * Slack
 * Visual Studio Code
+* Postman
+
+
 
 # 🔭 Tech skills 
 
 * Software Testing
-* SQL (básico)
+* SQL (Dbeaver)
 * JAVA (básico)
 * CSS (básico)
 * HTML (básico)

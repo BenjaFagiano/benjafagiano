@@ -65,6 +65,9 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 * Visual Studio Code
 * Postman
 * Pycharm
+* Linux
+* G Suites
+* 
 
 
 
@@ -193,7 +196,9 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 - Bug #1. Proyecto [Directv GO](https://bfagiano.atlassian.net/browse/POR-3?atlOrigin=eyJpIjoiNTkzZTNkNjRmNjA4NGY0OTg4ZWVlMjMzNjQxNmE5NzUiLCJwIjoiaiJ9).
   
 
+# ⚡ Automation Test
 
+- Web (https://www.lovellsoccer.uk/) -> Functions & Test https://github.com/BenjaFagiano/lovellSoccer
 
 
 

@@ -73,7 +73,7 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 # 🔭 Tech skills 
 
 * Software Testing
-* SQL (Dbeaver)
+* SQL
 * JAVA (básico)
 * CSS (básico)
 * HTML (básico)

@@ -3,7 +3,6 @@
        alt="Example Usage - README Typing SVG">
 </p>
 
-Hola, soy Benjamín Fagiano
 
 ---
 <div id="badges" align="center">
@@ -39,7 +38,7 @@ Desde hace dos años me encuentro trabajando como QA Manual, soy un apasionado d
 Estoy en proceso de aprendizaje y aplicación en los proyectos en los que me encuentro involucrado de la automatización de pruebas con Selenium con Python.
 
 
-![png-clipart-linkedin-linkedin](https://github.com/user-attachments/assets/6d37ce68-aaa3-4bda-9967-ddfd158f69d6) https://www.linkedin.com/in/benjaminfagiano/
+ https://www.linkedin.com/in/benjaminfagiano/
 
 <!--
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
@@ -61,7 +60,9 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 * Herramientas de G-Suites
 * Visual Studio Code
 * Pycharm
-* 
+* (https://skillicons.dev/icons?i=docker)](https://skillicons.dev) Docker
+* Postman
+* SOAP UI
 * Slack
 * Discord
 
@@ -70,13 +71,10 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 # 🔭 Tech skills 
 
 * Software Testing
-* SQL
-* Postman
-* SOAP UI
-* 
-* 
-* Reporte Bugs
-* Creando Casos de Prueba
+* Consultas en SQL
+* Pruebas en API's
+* Creación Casos de Prueba
+* Reporte Bugs 
 * Testing exploratorio
 * Selenium con Python
 

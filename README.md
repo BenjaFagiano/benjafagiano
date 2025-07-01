@@ -3,20 +3,7 @@
        alt="Example Usage - README Typing SVG">
 </p>
 
-<!--
-**BenjaFagiano/BenjaFagiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola, soy Benjamín Fagiano
 
 ---
 <div id="badges" align="center">
@@ -36,14 +23,24 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+<!--
 ### 📊 Estadisticas??
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benjafagiano&theme=cobalt&locale=es&mode=weekly)](https://git.io/streak-stats)
-
+-->
 
 
 ## Sobre mí 😄
+
+Bienvenidos a mi perfil, soy egresado de la Diplomatura Superior en Testing de Software en la Universidad Tecnológica Nacional (UTN).
+
+Desde hace dos años me encuentro trabajando como QA Manual, soy un apasionado de mi trabajo y de la calidad de software.
+
+Estoy en proceso de aprendizaje y aplicación en los proyectos en los que me encuentro involucrado de la automatización de pruebas con Selenium con Python.
+
+
+![png-clipart-linkedin-linkedin](https://github.com/user-attachments/assets/6d37ce68-aaa3-4bda-9967-ddfd158f69d6) https://www.linkedin.com/in/benjaminfagiano/
+
 <!--
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
@@ -56,17 +53,17 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 ## 📫 CV 
 Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google.com/file/d/1AMUWJjEpGOdOIZKVTRY0GLeCBUDyPyI6/view?usp=drive_link).
 
-# ⚡ Herramientas
+# ⚡ Herramientas de gestión
 
 * Jira
 * Trello
-* Excel
-* Slack
+* Herramientas de Office
+* Herramientas de G-Suites
 * Visual Studio Code
-* Postman
 * Pycharm
-* Linux
-* G Suites
+* 
+* Slack
+* Discord
 
 
 
@@ -74,14 +71,14 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 
 * Software Testing
 * SQL
-* JAVA (básico)
-* CSS (básico)
-* HTML (básico)
-* Encontrando Bugs
-* Reportando Bugs
+* Postman
+* SOAP UI
+* 
+* 
+* Reporte Bugs
 * Creando Casos de Prueba
 * Testing exploratorio
-* Selenium (Automatizando test)
+* Selenium con Python
 
 # 🐞 Mi reporte de Bugs 
 

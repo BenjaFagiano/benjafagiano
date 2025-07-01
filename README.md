@@ -60,11 +60,11 @@ Se puede descargar mi CV desde [a PDF from my Google Drive](https://drive.google
 * Herramientas de G-Suites
 * Visual Studio Code
 * Pycharm
-[!(https://skillicons.dev/icons?i=docker)](https://skillicons.dev) Docker
+* Docker
 * Postman
 * SOAP UI
 * Slack
-[!(https://skillicons.dev/icons?i=discord)](https://skillicons.dev) Discord
+* Discord
 
 
 

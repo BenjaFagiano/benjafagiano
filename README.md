@@ -8,7 +8,7 @@
 ---
 <!-- Redes sociales-->
 <p aling="center">
- <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@benjafagiano"  /></a>
+ <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCztNdsov4I7D67AxJHyVBZg?style=for-the-badge&logo=youtube&logoColor=white" alt="@benjafagiano"  /></a>
  <a href="https://www.linkedin.com/in/benjaminfagiano/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 </p>
 <br>

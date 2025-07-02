@@ -1,3 +1,4 @@
+<!--Título con movimiento-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744E1&center=true&vCenter=true&width=435&lines=Benjam%C3%ADn+Fagiano;QA+Manual+y+Automation" 
        alt="Example Usage - README Typing SVG">
@@ -5,13 +6,17 @@
 
 
 ---
-<div id="badges" align="center">
- 
+<!-- Redes sociales-->
+<p aling="center">
+ <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@benjafagiano"  /></a>
+ <a href="https://www.linkedin.com/in/benjaminfagiano/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+</p>
+<br>
  <a target="_blank" href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg">
           <img src="https://img.shields.io/youtube/channel/subscribers/UCztNdsov4I7D67AxJHyVBZg?color=red&label=BenjaFagiano&logo=YouTube&logoColor=red&style=for-the-badge"
                alt="YouTube Badge" />
  </a>
- <a target="_blank" href="https://www.linkedin.com/in/benjamínfagiano/">
+ <a target="_blank" href="https://www.linkedin.com/in/benjaminfagiano/">
           <img src="https://img.shields.io/badge/Linkedin-Perfil-blue"
                alt="Linkedin Badge" />
  </a>
@@ -29,7 +34,7 @@
 -->
 
 
-## Sobre mí 😄
+<h2>Sobre mí 😄</h2> 
 
 Bienvenidos a mi perfil, soy egresado de la Diplomatura Superior en Testing de Software en la Universidad Tecnológica Nacional (UTN).
 

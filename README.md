@@ -15,7 +15,7 @@
 <br>
 
 
-<h2>Sobre mí 😄</h2> 
+<h2>Sobre mí</h2> 
 <p align="left">
 
 🎓 Egresado de la Diplomatura Superior en Testing de Software, en la Universidad Tecnológica Nacional (UTN).

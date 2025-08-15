@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <br>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=androidstudio,apple,bitbucket,docker,github,mysql,postman,pycharm,py,selenium,vscode,linux,windows,gmail,&perline=7" />
   </a>
 </p>

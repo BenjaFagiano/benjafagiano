@@ -24,7 +24,7 @@
 
 📝 Estoy en proceso de aprendizaje y aplicación en los proyectos en los que me encuentro involucrado, de la automatización de pruebas con Selenium con Python.
 
-📫 Se puede descargar mi [CV]([https://drive.google.com/file/d/1AMUWJjEpGOdOIZKVTRY0GLeCBUDyPyI6/view?usp=drive_link](https://drive.google.com/file/d/1qsfmpV_-CDevqqzmyBfzim8QSHsDz-gu/view?usp=drive_link)).
+📫 Se puede descargar mi [CV](https://drive.google.com/file/d/1qsfmpV_-CDevqqzmyBfzim8QSHsDz-gu/view?usp=drive_link).
    </p>
  <br>
 

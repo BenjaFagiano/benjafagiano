@@ -24,7 +24,8 @@
 
 📝 Estoy en proceso de aprendizaje y aplicación en los proyectos en los que me encuentro involucrado, de la automatización de pruebas con Selenium con Python.
 
-📫 Se puede descargar mi [CV](https://drive.google.com/file/d/1qsfmpV_-CDevqqzmyBfzim8QSHsDz-gu/view?usp=drive_link).
+📫 Se puede descargar mi <a href="https://drive.google.com/file/d/1qsfmpV_-CDevqqzmyBfzim8QSHsDz-gu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">CV</a>.
+
    </p>
  <br>
 
@@ -33,7 +34,7 @@
 <!--tech stack icons-->
 <p align="center">
   <br>
-  <a href="https://skillicons.dev" target="_blank">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=androidstudio,apple,bitbucket,docker,github,mysql,postman,pycharm,py,selenium,vscode,linux,windows,gmail,&perline=7" />
   </a>
 </p>
@@ -45,9 +46,9 @@
 <h2> 🐞 Mi reporte de Bugs </h2>
 <p align="left">
 
-  Testeando App Movil [Directv GO](https://www.directvgo.com/ar/home)
+  Testeando App Movil <a href="https://www.directvgo.com/ar/home" target="_blank" rel="noopener noreferrer">[Directv GO]</a>
   
-  - [Reporte bugs](https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing)
+  -  <a href="https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">[Reporte bugs]</a>
    
   </p>
 <br>
@@ -58,8 +59,8 @@
 
 [![Selenium con Python](https://skillicons.dev/icons?i=selenium,py)](https://skillicons.dev)  
 
-  - Proyecto [Aerolineas Argentinas](https://www.aerolineas.com.ar/)  -> Functions & Test [Repositorio](https://github.com/BenjaFagiano/automatizacion-aerolineas-python)
-  - Proyecto [Lovell Soccer](https://www.lovellsoccer.uk/) -> Functions & Test [Repositorio](https://github.com/BenjaFagiano/lovellSoccer)
+  - <a href="https://www.aerolineas.com.ar/" target="_blank" rel="noopener noreferrer">Proyecto [Aerolineas Argentinas]</a>  -> <a href="https://github.com/BenjaFagiano/automatizacion-aerolineas-python" target="_blank" rel="noopener noreferrer">Functions & Test [Repositorio]</a>
+  - <a href="https://www.lovellsoccer.uk/" target="_blank" rel="noopener noreferrer">Proyecto [Lovell Soccer]</a> -> <a href="https://github.com/BenjaFagiano/lovellSoccer" target="_blank" rel="noopener noreferrer">Functions & Test [Repositorio]</a>
 
   </p>
 <br>

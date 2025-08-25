@@ -77,7 +77,8 @@
 <tr border="none">
 <td width="60%" align="center">
  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=benjafagiano&theme=dracula&hide_border=false" /> 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=benjafagiano&theme=dracula)](https://git.io/streak-stats)
+ <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=benjafagiano&theme=dracula&hide_border=false" /> -->
 </td>
   <!--- stats (end) -->
 

@@ -48,9 +48,9 @@
 
   Testeando  <a href="https://www.directvgo.com/ar/home" target="_blank">[Directv GO]</a>
 
-  Casos de prueba
-  Reporte de bugs
-  Evidencias 
+  <li>Casos de prueba</li>
+  <li>Reporte de bugs</li>
+  <li>Evidencias</li>
   -  <a href="https://github.com/BenjaFagiano/Test-Manual-DirectvGo/blob/main/README.md" target="_blank">[Repositorio del Proyecto]</a>
    
   </p>
@@ -77,7 +77,7 @@
 <tr border="none">
 <td width="60%" align="center">
  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="http://github-readme-streak-stats.herokuapp.com?user=benjafagiano&theme=cobalt&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=benjafagiano&theme=dracula&hide_border=false" /> 
 </td>
   <!--- stats (end) -->
 

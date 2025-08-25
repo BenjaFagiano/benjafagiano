@@ -43,12 +43,15 @@
 
 
 
-<h2> 🐞 Mi reporte de Bugs </h2>
+<h2> Test manual</h2>
 <p align="left">
 
-  Testeando App Movil <a href="https://www.directvgo.com/ar/home" target="_blank">[Directv GO]</a>
-  
-  -  <a href="https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing" target="_blank">[Reporte bugs]</a>
+  Testeando  <a href="https://www.directvgo.com/ar/home" target="_blank">[Directv GO]</a>
+
+  Casos de prueba
+  Reporte de bugs
+  Evidencias 
+  -  <a href="https://github.com/BenjaFagiano/Test-Manual-DirectvGo/blob/main/README.md" target="_blank">[Repositorio del Proyecto]</a>
    
   </p>
 <br>

@@ -1,6 +1,6 @@
 <!--Título con movimiento-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744E1&center=true&vCenter=true&width=435&lines=Benjam%C3%ADn+Fagiano;QA+Manual+y+Automation" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744E1&center=true&vCenter=true&width=435&lines=Benjam%C3%ADn+Fagiano;QA+Engineer" 
        alt="Example Usage - README Typing SVG">
   </p>
 

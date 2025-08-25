@@ -9,8 +9,8 @@
 <!-- Redes sociales-->
 
 <p align="center">
- <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@benjafagiano"  /></a>
- <a href="https://www.linkedin.com/in/benjaminfagiano/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+ <a href="https://www.youtube.com/channel/UCztNdsov4I7D67AxJHyVBZg" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@benjafagiano"  /></a>
+ <a href="https://www.linkedin.com/in/benjaminfagiano/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   </p>
 <br>
 
@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="center">
   <br>
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" target="_blank">
     <img src="https://skillicons.dev/icons?i=androidstudio,apple,bitbucket,docker,github,mysql,postman,pycharm,py,selenium,vscode,linux,windows,gmail,&perline=7" />
   </a>
 </p>
@@ -46,9 +46,9 @@
 <h2> 🐞 Mi reporte de Bugs </h2>
 <p align="left">
 
-  Testeando App Movil <a href="https://www.directvgo.com/ar/home" target="_blank" rel="noopener noreferrer">[Directv GO]</a>
+  Testeando App Movil <a href="https://www.directvgo.com/ar/home" target="_blank">[Directv GO]</a>
   
-  -  <a href="https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">[Reporte bugs]</a>
+  -  <a href="https://docs.google.com/spreadsheets/d/1MmPeXWwsGxTRV54xnryxqAOSuD36d1Hnqs4jhMmFFBA/edit?usp=sharing" target="_blank">[Reporte bugs]</a>
    
   </p>
 <br>
@@ -59,8 +59,8 @@
 
 [![Selenium con Python](https://skillicons.dev/icons?i=selenium,py)](https://skillicons.dev)  
 
-  - <a href="https://www.aerolineas.com.ar/" target="_blank" rel="noopener noreferrer">Proyecto [Aerolineas Argentinas]</a>  -> <a href="https://github.com/BenjaFagiano/automatizacion-aerolineas-python" target="_blank" rel="noopener noreferrer">Functions & Test [Repositorio]</a>
-  - <a href="https://www.lovellsoccer.uk/" target="_blank" rel="noopener noreferrer">Proyecto [Lovell Soccer]</a> -> <a href="https://github.com/BenjaFagiano/lovellSoccer" target="_blank" rel="noopener noreferrer">Functions & Test [Repositorio]</a>
+  - <a href="https://www.aerolineas.com.ar/" target="_blank" >Proyecto [Aerolineas Argentinas]</a>  -> <a href="https://github.com/BenjaFagiano/automatizacion-aerolineas-python" target="_blank" rel="noopener noreferrer">Functions & Test [Repositorio]</a>
+  - <a href="https://www.lovellsoccer.uk/" target="_blank" >Proyecto [Lovell Soccer]</a> -> <a href="https://github.com/BenjaFagiano/lovellSoccer" target="_blank" rel="noopener noreferrer">Functions & Test [Repositorio]</a>
 
   </p>
 <br>
